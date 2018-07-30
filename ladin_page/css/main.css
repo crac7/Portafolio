@@ -1,0 +1,15 @@
+body{
+  font-family: 'Ubuntu', sans-serif;
+
+}
+
+header{
+  margin-top: 75px;
+}
+
+#tecnologias{
+  background:  #6dd5fa;
+  padding: 50px 0 30px 0;
+  text-align:  center;
+  margin-top: 40px;
+}
